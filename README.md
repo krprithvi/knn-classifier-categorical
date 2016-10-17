@@ -22,15 +22,16 @@ How to use it ?
 Option - 1 : Please use bash script to run the program with default values
              ( Takes the default value for K - 5 and default names of the files ) 
 
-Option - 2 : 
-
-For more flexibility, please use the following command line program
+Option - 2 : For more flexibility, please use the following command line program
 
 # Analyze Income Dataset
+
 Usage: analyzeincome.R [options]
 
 
 Options:
+
+
         -r CHARACTER, --training_dataset=CHARACTER
                 Training dataset Income
 
