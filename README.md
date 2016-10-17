@@ -1,19 +1,16 @@
 KNN Classifier based on proximities
 
-Author
-----
-Prithvi Krishna Muntimadugu
-
-
 What is it ?
 ------------
 The scripts "analyzeincome.R" runs KNN classifier
-on the test datasets and provides the predictions on their classes.
+on the income dataset and provides the predictions on their classes.
 It calculates the accuracy over different proximity measures and K values.
+
+Dataset - https://archive.ics.uci.edu/ml/datasets/Census+Income
 
 Location for the input
 ----------------------
-Please place the income dataset in the same folder with the code.
+Please place the income dataset (training and test) in the same folder with the code.
 
 If using the bash script to run the program, ensure that the names of the datasets
 match. 
