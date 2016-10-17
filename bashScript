@@ -1,0 +1,1 @@
+Rscript analyzeincome.R -r <training-dataset-name> -t <test-dataset-name>
