@@ -1,4 +1,5 @@
 KNN Classifier based on proximities
+-----------------------------------
 
 What is it ?
 ------------
